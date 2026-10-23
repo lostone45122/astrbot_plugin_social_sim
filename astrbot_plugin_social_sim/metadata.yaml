@@ -1,9 +1,0 @@
-name: astrbot_plugin_social_sim
-display_name: 群友仿真（人设 · 记忆 · 群风）
-desc: 把 qq-bridge 的仿真群友玩法搬进 AstrBot：观望/活跃/试探/退场状态机、学习群友说话策略、话题与群友印象记忆
-short_desc: 让 AI 像真人群友一样选择性说话，并记住群里的梗和人
-version: v2.1.0
-author: qq-bridge-port
-# 说明：这里**故意不填 repo**。填了之后 AstrBot 的“更新”会去拉那个仓库，
-# 而本插件是移植版、与原仓库的文件结构完全不同，拉下来只会把插件冲坏。
-# 想发布自己的仓库时，把 repo 换成你自己的地址即可。
